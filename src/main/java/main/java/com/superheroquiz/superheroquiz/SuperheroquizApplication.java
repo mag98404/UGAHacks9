@@ -1,4 +1,4 @@
-package com.superheroquiz.superheroquiz;
+package main.java.com.superheroquiz.superheroquiz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
